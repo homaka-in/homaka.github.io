@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>www.homaka.in — Genuine Spare Parts Catalog</title>
 <meta name="description" content="www.homaka.in — Homaka spare parts catalog for brush cutters, chainsaws, generators, water pumps, sprayers, earth augers and garden tools.">
-<meta name="keywords" content="Homaka spare parts, brush cutter parts, chainsaw parts, generator parts, water pump parts, sprayer parts, earth auger parts, garden tools, spare parts India, farm equipment spare parts">
+<meta name="keywords" content="homaka.in, homaka, Homaka spare parts, brush cutter parts, chainsaw parts, generator parts, water pump parts, sprayer parts, earth auger parts, garden tools, spare parts India, farm equipment spare parts">
 <meta name="robots" content="index, follow">
 <meta name="author" content="Homaka">
 <link rel="canonical" href="https://www.homaka.in/">
