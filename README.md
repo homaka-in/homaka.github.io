@@ -68,7 +68,7 @@ body{
 img{ max-width:100%; display:block; }
 a{ color:inherit; text-decoration:none; }
 button{ font-family:inherit; cursor:pointer; }
-.wrap{ max-width:1180px; margin:0 auto; padding:0 20px; }
+.wrap{ max-width:1400px; margin:0 auto; padding:0 28px; }
 .hazard{
   height:10px; width:100%;
   background:repeating-linear-gradient(135deg, var(--ink) 0 14px, var(--amber) 14px 28px);
@@ -157,7 +157,7 @@ h1.hero-h .u{ box-shadow: inset 0 -14px 0 var(--amber); }
   padding:14px 0; border-bottom:1px solid var(--line);
 }
 .catalog-bar-inner{ display:flex; gap:14px; align-items:center; flex-wrap:wrap; }
-.search-box{ position:relative; flex:1 1 240px; max-width:340px; }
+.search-box{ position:relative; flex:1 1 240px; max-width:420px; }
 .search-box input{
   width:100%; padding:11px 14px 11px 38px; border:1.5px solid var(--line); border-radius:var(--radius);
   font-family:var(--font-body); font-size:14px; background:#fff;
@@ -178,7 +178,7 @@ h1.hero-h .u{ box-shadow: inset 0 -14px 0 var(--amber); }
 }
 .result-count{ font-family:var(--font-mono); font-size:12.5px; color:var(--steel); padding:14px 0 0; }
 
-.grid{ display:grid; grid-template-columns:repeat(4, 1fr); gap:18px; padding:20px 0 10px; }
+.grid{ display:grid; grid-template-columns:repeat(auto-fill, minmax(240px, 1fr)); gap:18px; padding:20px 0 10px; }
 .card{
   background:var(--card); border:1px solid var(--line); border-top:4px solid var(--amber);
   display:flex; flex-direction:column; transition:box-shadow .15s ease, transform .15s ease;
